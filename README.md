@@ -2,7 +2,7 @@
 <html lang="uk">
 <head>
   <meta charset="UTF-8">
-  <title>Розділ 10. Пам’ять та асоціації</title>
+
 </head>
 <body>
   <h1>РОЗДІЛ 10. ПАМ’ЯТЬ ТА АСОЦІАЦІЇ</h1>
